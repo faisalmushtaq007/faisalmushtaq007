@@ -27,7 +27,7 @@
 <img align="left" alt="Dart" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwind" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vue" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
