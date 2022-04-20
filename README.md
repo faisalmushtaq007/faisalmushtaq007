@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn about web3
-- ⚡ Fun fact: I love camping!
+- 🏕 Fun fact: I love camping!
 
 ### Connect with me:
 [![website](./img/youtube-light.svg)](https://youtube.com/#gh-light-mode-only)
