@@ -1,10 +1,9 @@
 # Hi there, I'm Faisal Mushtaq  👋 
 
-## I'm an App Developer, from Kashmir!!
+## I'm a Software Engineer, from Kashmir!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: System Design - AWS - Nextjs
-- 🏕 Fun fact: I love camping!
+- 🥅 2025 Goals: System Design - AWS
 
 ### Connect with me:
 [![website](./img/youtube-light.svg)](https://youtube.com/#gh-light-mode-only)
